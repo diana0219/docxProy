@@ -1,0 +1,8 @@
+rojo
+e30613
+
+amarillo
+cebf00
+
+gris
+444443
